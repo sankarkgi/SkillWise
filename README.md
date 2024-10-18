@@ -1,6 +1,6 @@
 <div align="center">
 
-# `SkillWise Repo`
+# `SkillWise Repo Test`
 
 <br>
 <img src='./readme-images/desktop.png'>
